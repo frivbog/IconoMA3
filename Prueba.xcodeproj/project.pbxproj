@@ -12,6 +12,7 @@
 		0B848A941F60C19200CC8245 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B848A921F60C19200CC8245 /* Main.storyboard */; };
 		0B848A961F60C19200CC8245 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B848A951F60C19200CC8245 /* Assets.xcassets */; };
 		0B848A991F60C19200CC8245 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B848A971F60C19200CC8245 /* LaunchScreen.storyboard */; };
+		0B848AA11F60C5AF00CC8245 /* MA3_17_a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0B848AA01F60C5AF00CC8245 /* MA3_17_a.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0B848A951F60C19200CC8245 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B848A981F60C19200CC8245 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B848A9A1F60C19200CC8245 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B848AA01F60C5AF00CC8245 /* MA3_17_a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MA3_17_a.jpg; path = ../../../../../../Desktop/MA3_17_a.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				0B848A901F60C19200CC8245 /* ViewController.swift */,
 				0B848A921F60C19200CC8245 /* Main.storyboard */,
 				0B848A951F60C19200CC8245 /* Assets.xcassets */,
+				0B848AA01F60C5AF00CC8245 /* MA3_17_a.jpg */,
 				0B848A971F60C19200CC8245 /* LaunchScreen.storyboard */,
 				0B848A9A1F60C19200CC8245 /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 				0B848A991F60C19200CC8245 /* LaunchScreen.storyboard in Resources */,
 				0B848A961F60C19200CC8245 /* Assets.xcassets in Resources */,
 				0B848A941F60C19200CC8245 /* Main.storyboard in Resources */,
+				0B848AA11F60C5AF00CC8245 /* MA3_17_a.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
